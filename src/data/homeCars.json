@@ -1,0 +1,52 @@
+{
+  "stores": [
+    {
+      "name": "Lamborghini",
+      "model": "Urus",
+      "Price": 225000,
+      "Engine Size": "4.0 L V8",
+      "Horsepower": 641,
+      "0-60 Time": "3.2 Seconds"
+    },
+    {
+      "name": "Lamborghini",
+      "model": "Huracan",
+      "Price": 327000,
+      "Engine Size": "5.2 L V10",
+      "Horsepower": 630,
+      "0-60 Time": "2.8 Seconds"
+    },
+    {
+      "name": "Lamborghini",
+      "model": "Aventador",
+      "Price": 515000,
+      "Engine Size": "6.0 L V12",
+      "Horsepower": 769,
+      "0-60 Time": "2.9 Seconds"
+    },
+    {
+      "name": "McLaren",
+      "model": "GT",
+      "Price": 215000,
+      "Engine Size": "4.0 L V8",
+      "Horsepower": 612,
+      "0-60 Time": "3.2 Seconds"
+    },
+    {
+      "name": "McLaren",
+      "model": "720S",
+      "Price": 305000,
+      "Engine Size": "4.0 L V8",
+      "Horsepower": 710,
+      "0-60 Time": "2.9 Seconds"
+    },
+    {
+      "name": "McLaren",
+      "model": "765LT",
+      "Price": 368000,
+      "Engine Size": "4.0 L V8",
+      "Horsepower": 755,
+      "0-60 Time": "2.7 Seconds"
+    }
+  ]
+}
